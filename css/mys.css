@@ -1,0 +1,126 @@
+*
+{
+	margin:0;
+}
+
+body
+{
+	background-color: #3f151a;
+	
+}
+main
+{
+	background-color:blue;
+}
+header
+{
+	width:100%;
+	height:100px;
+	background-color:#c77b7b;
+}
+.brand
+{
+	width:20%;
+	height:100%;
+	background-color:white;
+
+}
+.info
+{
+	width:80%;
+	height:100px;
+	background-color:#c77b7b;
+}
+nav
+{
+	width:100%;
+	height:50px;
+	background-color:#cb9b9b;
+}
+nav ul li
+{
+display:inline;
+color:#fff;
+line-height:2.5em;
+font-family:aerial;
+margin-right:10px;
+
+
+}
+nav ul li a
+{
+text-decoration:none;
+color:#fff;
+}
+li
+{
+float:left;
+}
+li a, .dropbtn
+{
+display:inline-block; 
+clor:white;
+}
+.banner
+{
+	width:100%;
+	height:250px;
+	background-color: #c7b8b8;
+}
+.content
+{
+	width:100%;
+	height:500px;
+	background-color: black;
+}
+aside
+{
+	width:20%;
+	height:100%;
+	background-color:#c0afb6;
+	float:left;
+}
+table{
+	border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+section
+{
+	width:80%;
+	height:100%;
+	background-color:#dfbdbd;
+	float:left;
+}
+article
+{
+	width:100%;
+	height:250px;
+	background-color:#f08c8c;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:auto;
+	margin-top:auto;
+}
+.gallery
+{
+width:24%;
+height:96%;
+background-color:#e2e3e3;
+float:left;
+margin-left:5px;
+margin-top:5px;
+margin-right:5px;
+margin-bottom:5px;
+
+}
+footer
+{
+	width:100%;
+	height:150px;
+	background-color:#996868;
+}
