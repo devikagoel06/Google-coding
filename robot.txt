@@ -1,3 +1,2 @@
  User-agent: *
- Disallow: /temp/
- Disallow: googlecoding/temp.html
+ Disallow: /temp.html
